@@ -1,6 +1,6 @@
 # zizheng.me
 
-This project is the source for [zizheng.me](https://zizheng.me/) (powered by [Play Framework](https://www.playframework.com/)).
+This project is the source for [zizheng.me](http://zizheng.me/) (powered by [Play Framework](https://www.playframework.com/)).
 
 ## License
 
